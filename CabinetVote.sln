@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot", "Bot\Bot.csproj", "{C6974A8C-0AFD-468F-8B82-0D58D8DF0550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotConsoleTest", "BotConsoleTest\BotConsoleTest.csproj", "{338C18B8-A168-4783-8FAF-8E54C0CA499F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6974A8C-0AFD-468F-8B82-0D58D8DF0550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6974A8C-0AFD-468F-8B82-0D58D8DF0550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6974A8C-0AFD-468F-8B82-0D58D8DF0550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6974A8C-0AFD-468F-8B82-0D58D8DF0550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338C18B8-A168-4783-8FAF-8E54C0CA499F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338C18B8-A168-4783-8FAF-8E54C0CA499F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338C18B8-A168-4783-8FAF-8E54C0CA499F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338C18B8-A168-4783-8FAF-8E54C0CA499F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
